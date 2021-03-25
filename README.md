@@ -6,7 +6,7 @@ window.snake.burger();
 ```
 If you want to disable, just refresh.
 
-## Dark Mode 
+## Enable Dark Mode Compatibility 
 ```
 window.snake.burger({
   dark: true
@@ -14,7 +14,7 @@ window.snake.burger({
 ```
 If you want to disable, just refresh
 
-## Custom Schemes
+## Enable Custom Scheme Compatibility
 ```
 window.snake.burger({
   walls:        '#rrggbb', // hex code, color for walls (default color if omitted)
